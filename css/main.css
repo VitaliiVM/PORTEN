@@ -1019,7 +1019,7 @@ outline: none;
         background: rgba(255, 255, 255, 0.4);
         border: none;
         outline: none;
-	border-radius:none;
+	border-radius:0px;
         padding-left: 20px;
         color: #ffffffa8;
     }
